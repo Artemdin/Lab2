@@ -183,6 +183,7 @@ namespace DraftForLab2
                 Console.WriteLine("Не введено жодного числа.");
             }
         }
+       
 
 
 
@@ -280,4 +281,4 @@ namespace DraftForLab2
             } while (choice != 0);
         }
     }
-}
+} //test
